@@ -1,5 +1,5 @@
 # hello-world
 This is my first repository
 
-Hello everyone\n
+Hello everyone
 How is your day?
